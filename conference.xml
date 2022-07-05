@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Dial statusCallback="https://rbaskets.in/web/vh0ybc2" statusCallbackMethod="POST">
+  <Dial>
     <Conference statusCallback="https://rbaskets.in/6xascsz" statusCallbackMethod="POST" statusCallbackEvent="start end join leave mute hold modify speaker announcement">Room 1234</Conference>
   </Dial>
 </Response>
