@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say>Hi Good morning How are you? How can i help you?</Say>
+  <Dial action="https://rbaskets.in/voicecallback"></Dial>
+</Response>
