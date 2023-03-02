@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Speak loop="100">
+  <Speak language="en-AU" voice="alice">
     Hello, How are you? How can i help you?
   </Speak>
 </Response>
