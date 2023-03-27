@@ -1,5 +1,5 @@
 <Response>
 <Dial callerId="+919945073606" action="https://rbaskets.in/actioncb" timeLimit="5400" timeout="30" ringTone="at" record="record-from-answer-dual" recordingTrack="both" recordingStatusCallback="https://rbaskets.in/voicecb">
-<Sip statusCallbackEvent="initiated ringing answered completed" statusCallback="https://rbaskets.in/voicecb" statusCallbackMethod="GET">+sip:kavit1611546567177@phone.siprtc.io</Sip>
+<Sip statusCallbackEvent="initiated ringing answered completed" statusCallback="https://rbaskets.in/voicecb" statusCallbackMethod="GET">sip:kavit1611546567177@phone.siprtc.io</Sip>
 </Dial>
 </Response>
