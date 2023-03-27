@@ -1,5 +1,5 @@
 <Response>
-<Dial callerId="+919945073606" action="https://2abe-49-207-204-249.ngrok.io /action" timeLimit="5400" timeout="30" ringTone="at" record="record-from-answer-dual" recordingTrack="both" recordingStatusCallback="https://2abe-49-207-204-249.ngrok.io/recording">
-<Number statusCallbackEvent="initiated ringing answered completed" statusCallback="https://2abe-49-207-204-249.ngrok.io/xml2" statusCallbackMethod="GET">+919945073606</Number>
+<Dial callerId="+919945073606" action="https://rbaskets.in/actioncb" timeLimit="5400" timeout="30" ringTone="at" record="record-from-answer-dual" recordingTrack="both" recordingStatusCallback="https://rbaskets.in/voicecb">
+<Number statusCallbackEvent="initiated ringing answered completed" statusCallback="https://rbaskets.in/voicecb" statusCallbackMethod="GET">+919945073606</Number>
 </Dial>
 </Response>
