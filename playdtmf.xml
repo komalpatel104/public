@@ -3,4 +3,7 @@
     <Pause length="5"/>
     <Play digits="wwww1#"></Play>
     <Pause length="10"/>
+    <Dial>
+      <Conference>Room 1234</Conference>
+    </Dial>
 </Response>
