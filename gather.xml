@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Gather input="speech dtmf" timeout="3" numDigits="1" action="https://rbaskets.in/actioncb">
+    <Gather input="dtmf" timeout="3" numDigits="1" action="https://rbaskets.in/actioncb">
         <Say>Please press 1 for sales and 2 for support.</Say>
     </Gather>
     <Say>We didn't receive any input. Goodbye!</Say>
